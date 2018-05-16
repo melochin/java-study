@@ -1,1 +1,3 @@
-thinkinginjava
+
+
+## [Lambda](/doc/lambda.md)
